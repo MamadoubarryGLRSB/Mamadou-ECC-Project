@@ -1,6 +1,6 @@
 # MonECC - Systeme de chiffrement ECC
 
-Auteur: [Votre Nom]
+Auteur: Mamadou BARRY M2 AL
 
 ## Description
 
