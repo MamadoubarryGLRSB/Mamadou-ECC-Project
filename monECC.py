@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 MonECC - Implementation ECC
-Auteur: [Votre Nom]
+Auteur: Mamadou BARRY
 Courbe: Y² = X³ + 35X + 3 (modulo 101)
 Point de depart: P(2, 9)
 """
@@ -22,7 +22,7 @@ BASE_POINT = Point(2, 9)
 
 def print_help():
     print("""
-Script monECC par [Votre Nom]
+Script monECC par Mamadou BARRY
 
 Syntaxe:
     monECC <commande> [<clé>] [<texte>] [switchs]
